@@ -1,0 +1,6 @@
+# 드라이버 경로
+driver =oracle.jdbc.driver.OracleDriver
+# 접속정보
+url=jdbc:oracle:thin:@localhost:1521:XE
+user=javamovie
+password=javamovie
